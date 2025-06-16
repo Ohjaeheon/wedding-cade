@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Greeting-card/static/css/main.e38ee355.css",
-    "main.js": "/Greeting-card/static/js/main.d35db566.js",
+    "main.js": "/Greeting-card/static/js/main.59e1979f.js",
     "static/js/787.d00bc756.chunk.js": "/Greeting-card/static/js/787.d00bc756.chunk.js",
-    "static/media/taeyeon_poem.mp3": "/Greeting-card/static/media/taeyeon_poem.13d16db4a02836cf5d9d.mp3",
+    "static/media/music.mp3": "/Greeting-card/static/media/music.d5bed410e7229798ea56.mp3",
     "static/media/부크크명조_얇은글씨.woff": "/Greeting-card/static/media/부크크명조_얇은글씨.4dd24ae27c5fa573aaf0.woff",
     "static/media/부크크명조_굵은글씨.woff": "/Greeting-card/static/media/부크크명조_굵은글씨.e8da3dec364cd90e0d16.woff",
-    "static/media/photo.png": "/Greeting-card/static/media/photo.d7e57a709cf047e53b8d.png",
+    "static/media/photo.png": "/Greeting-card/static/media/photo.bf2b7ffa431e625c61ec.png",
     "static/media/강원교육모두_Bold.woff": "/Greeting-card/static/media/강원교육모두_Bold.8eaefb5b786b8cf34f6b.woff",
     "static/media/강원교육모두_Light.woff": "/Greeting-card/static/media/강원교육모두_Light.0199f2fa3d48c9d10dc8.woff",
     "static/media/p5.png": "/Greeting-card/static/media/p5.551a2fb3f9adb8180ea1.png",
@@ -23,11 +23,11 @@
     "static/media/naver.webp": "/Greeting-card/static/media/naver.7717483eebafa7435918.webp",
     "index.html": "/Greeting-card/index.html",
     "main.e38ee355.css.map": "/Greeting-card/static/css/main.e38ee355.css.map",
-    "main.d35db566.js.map": "/Greeting-card/static/js/main.d35db566.js.map",
+    "main.59e1979f.js.map": "/Greeting-card/static/js/main.59e1979f.js.map",
     "787.d00bc756.chunk.js.map": "/Greeting-card/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e38ee355.css",
-    "static/js/main.d35db566.js"
+    "static/js/main.59e1979f.js"
   ]
 }
